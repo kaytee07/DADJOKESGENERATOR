@@ -1,0 +1,11 @@
+{
+  "name": "crud-async-dadjokes",
+  "version": "1.0.0",
+  "description": "timeline of DadJokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kofi Winful Taylor",
+  "license": "ISC"
+}
