@@ -1,0 +1,17 @@
+div.app{
+    margin: 0 auto;
+    padding: 20px 80px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  
+}
+
+.generate{ 
+    margin-bottom: 20px;
+}
+
+.card{
+    margin-bottom: 15px;
+}
